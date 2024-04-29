@@ -435,3 +435,6 @@ form .send-btn{
     width: 30%;
 }
 
+@media(max-width:578px){
+    .portfolio
+}
